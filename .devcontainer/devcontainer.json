@@ -1,0 +1,12 @@
+{
+  "name": "OpenCode",
+  "forwardPorts": [4096],
+  "portsAttributes": {
+    "4096": {
+      "label": "OpenCode",
+      "onAutoForward": "notify"
+    }
+  },
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y tmux curl && curl -fsSL https://opencode.ai/v2/install | bash",
+  "postStartCommand": "bash .devcontainer/start-opencode.sh"
+}
