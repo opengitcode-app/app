@@ -2,9 +2,9 @@
 
 **Your own AI coding agent, with a VM and VS Code, in one click.**
 
-Sign in with GitHub, create a workspace, and get your own private repo and a
-Codespace with OpenCode installed. Chat with your agent from a browser, VS Code,
-or a mobile app.
+[Sign in with GitHub](https://opengitcode-app.github.io/app/), create a
+workspace, and get your own private repo and a Codespace with OpenCode installed.
+Chat with your agent from a browser, VS Code, or a mobile app.
 
 [Try it](https://opengitcode-app.github.io/app/) ·
 [Dashboard repo](https://github.com/opengitcode-app/opengitcode) ·
@@ -32,26 +32,22 @@ your phone. No new account, no credit card, no local setup.
 
 - **One click → a working agent.** A private repo and a Codespace with OpenCode,
   Git, and VS Code ready on first boot.
+- **Your own agent chat.** OpenCode runs inside your workspace, with shell, git,
+  and your tools.
+- **A real VM.** A full Linux environment and browser VS Code. No Docker, no
+  devcontainer debugging, no local install.
+- **No repo picking.** Each workspace comes with your own private repo.
 - **One dashboard for the lifecycle.** Start, stop, delete, open — from any
   device.
 - **Reachable anywhere.** Browser, desktop VS Code, or an OpenCode v2 mobile app.
 - **No markup.** Compute is your GitHub Codespaces allowance; models are your
   OpenCode account.
 
-## What you get
-
-- **Your own agent chat.** OpenCode runs inside your workspace, with shell, git,
-  and your tools.
-- **A VM and VS Code.** A full Linux environment and browser VS Code. No local
-  setup, no Docker, no devcontainer debugging.
-- **Accessible anywhere.** Browser, desktop VS Code, or an OpenCode v2 mobile app.
-- **No repo picking.** Each workspace comes with your own private repo.
-- **Your accounts.** Compute from your GitHub, models from your OpenCode setup.
-
 ## Quick start
 
-1. **Sign in with GitHub.** OAuth with `repo` and `codespace` scopes. The token
-   stays server-side, never in your browser.
+1. **[Sign in with GitHub](https://opengitcode-app.github.io/app/).** OAuth with
+   `repo` and `codespace` scopes. The token stays server-side, never in your
+   browser.
 2. **Create your own workspace.** You get your own private repo and a Codespace
    with OpenCode, Git, and VS Code ready on first boot.
 3. **Open it anywhere.** Chat in the browser, open VS Code, or connect a mobile
