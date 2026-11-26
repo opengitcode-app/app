@@ -60,7 +60,7 @@ your phone. No new account, no credit card, no local setup.
 | Browser | Open the workspace URL and sign in with your workspace password |
 | VS Code | Open the Codespace in browser VS Code or desktop VS Code |
 | iOS | [OpenCody](https://apps.apple.com/us/app/opencody-an-opencode-client/id6760118911), an OpenCode mobile app for iPhone and iPad |
-| Android / iOS | [OpenCode Mobile](https://github.com/beppe2880/opencode-mobile) for [Android](https://github.com/beppe2880/opencode-mobile/releases/latest) and [iOS](https://testflight.apple.com/join/Z7wVBAn3), a community mobile app |
+| Android / iOS | OpenCode Mobile (community): [Google Play](https://play.google.com/store/apps/details?id=com.logicedge.opencodemobile) · [App Store](https://apps.apple.com/ca/app/opencode-mobile-community/id6787161501) |
 
 The OpenCode server listens on port `4096` and is protected by the password you
 set as a Codespaces secret. Mobile apps are independent community projects, not
