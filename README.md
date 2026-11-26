@@ -12,6 +12,32 @@ or a mobile app.
 
 ---
 
+## Elevator pitch
+
+OpenGitCode is a one-click provisioning layer for AI coding agents. It turns your
+GitHub account into a disposable Linux VM with OpenCode already installed — a
+private repo, a browser terminal, and VS Code — reachable from your laptop or
+your phone. No new account, no credit card, no local setup.
+
+## Problem
+
+- **Local agents run on your laptop.** Fan noise, battery drain, lost state when
+  you close the lid, and a different setup on every machine.
+- **Hosted sandboxes want a new account and a credit card**, and they lock you
+  into their agent.
+- **Raw Codespaces give you a VM and nothing else.** You still install the agent,
+  wire up auth, and manage start/stop by hand.
+
+## Solution
+
+- **One click → a working agent.** A private repo and a Codespace with OpenCode,
+  Git, and VS Code ready on first boot.
+- **One dashboard for the lifecycle.** Start, stop, delete, open — from any
+  device.
+- **Reachable anywhere.** Browser, desktop VS Code, or an OpenCode v2 mobile app.
+- **No markup.** Compute is your GitHub Codespaces allowance; models are your
+  OpenCode account.
+
 ## What you get
 
 - **Your own agent chat.** OpenCode runs inside your workspace, with shell, git,
@@ -58,7 +84,7 @@ the other.
 | Retention | 30 days after stop by default | GitHub deletes the stopped workspace |
 
 Compute and storage come from your GitHub account. OpenGitCode never asks for a
-card and never resells compute.
+credit card and never resells compute.
 
 ### OpenCode
 
@@ -87,7 +113,7 @@ No. Each workspace comes with your own private repo.
 
 **Do I need a paid GitHub plan?**
 No. A free personal account includes Codespaces minutes. If you run out, GitHub
-lets you add more; the app never asks for a card.
+lets you add more; the app never asks for a credit card.
 
 **Is it free? What is the catch?**
 The app is free. Compute comes from your GitHub Codespaces allowance and model
